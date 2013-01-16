@@ -1,0 +1,8 @@
+*.beam
+.eunit
+deps/*
+apps/chapp/ebin
+*~
+dev/*
+doc/*
+rel/chapp
